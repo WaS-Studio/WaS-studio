@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm roody</h1>
-<h3 align="center">A freelance web dev from the Midwest, US</h3>
+<h1 align="center">👋 I'm roody
+<h3 align="center">A fullstack dev from the Midwest, US</h3>
 
-- 🔭 I’m currently working on [folio highlights]
+- 🔭 I’m currently working on [folio projects]
 
-- 🌱 Learning **Indy gamedev, Design workflow & CI/CD integration practices**
+- 🌱 Learning **gamedev, design software, CI/CD integration**
 
 - 👯 open to collab on [opensource, app developemnt, web3, indy games] possibly available to help with webdev overflow, contact via email/socials
 
