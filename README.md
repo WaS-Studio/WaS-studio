@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm roody</h1>
-<h3 align="center">A freelancer from the Midwest, US</h3>
+<h3 align="center">A freelance web dev from the Midwest, US</h3>
 
-- 🔭 I’m currently working on [a gamejam project](will showcase soon :))
+- 🔭 I’m currently working on [folio highlights]
 
-- 🌱 I’m currently learning **Indy gamedev, Design workflow & CI/CD practices**
+- 🌱 I’m currently learning **Indy gamedev, Design workflow & CI/CD integration practices**
 
-- 👯 I’m looking to collaborate on [opensource, app developemnt, web3](available for overflow, pm me)
+- 👯 I’m looking to collab on [opensource, app developemnt, web3, indy games] possibly available to help with webdev overflow, contact via email/socials
 
-- 👨‍💻 All of my projects are available [pinned up -->](pinned up -->)
+- 👨‍💻 All of my projects are available [pinned up here]
 
-- 💬 Ask me about **anything really, might be able to help beginners or early students with understanding misc. concepts**
+- 💬 Ask me about **anything really, might be able to help beginners or students w/ understanding misc. dev concepts**
 
 - 📫 How to reach me **wasmail@webandsundry.com**
 
-- ⚡ Fun fact **<3 card/strategy games,exceptional app/product UX, 2d pixel art & animation**
+- ⚡ Fun facts **I <3 card & strategy games, exceptional app/product UX, 2d pixel art & animation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
