@@ -1,17 +1,17 @@
 <h1 align="center">👋 I'm roody
-<h3 align="center">A fullstack dev from the Midwest, US</h3>
+<h3 align="center">A freelance web dev from the Midwest, US</h3>
 
-- 🔭 I’m currently working on [folio projects]
+- 🔭 I’m currently working on [a real-estate app for realtors/agencies]
 
-- 🌱 Learning **gamedev, design software, CI/CD integration**
+- 🌱 Learning **ux/ui, backend solutions for various use cases, CRON Jobs**
 
-- 👯 open to collab on [opensource, app developemnt, web3, indy games] possibly available to help with webdev overflow, contact via email/socials
+- 👯 open to collab on [opensource, app developemnt, web3 os, gamejams/hackathons] possibly available to help with webdev overflow, contact via email/socials
 
-- 💬 Ask me about **anything really, might be able to help beginners or students w/ understanding misc. dev concepts**
+- 💬 Ask me about **pc games, card games, rts/tcg, I also might be able to new devs and students w/ various beginner - intermediate cs or dev concepts. I can atleast probably point in a good direction. My stars section has tons and tons of amazing repos and compilations. If exploring or looking for something in particular, go to my stars page and type 'awesome' or a specific tech**
 
 - 📫 How to reach me **wasmail@webandsundry.com**
 
-- ⚡ Fun facts **I <3 card & strategy games, exceptional app/product UX, 2d pixel art & animation**
+- ⚡ Fun facts **I <3 card & strategy games, exceptional app/product UX, 2d pixel art & animation & time w/ friends and family.**
 
 
 <h3 align="left">Languages and Tools:</h3>
