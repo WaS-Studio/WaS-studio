@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm roody
 <h3 align="center">A freelance web dev from the Midwest, US</h3>
 
-- 🔭 I’m currently working on [a real-estate app for realtors/agencies]
+- 🔭 I’m currently working on a [Portfolio]
 
 - 🌱 Learning **ux/ui, backend solutions for various use cases, CRON Jobs**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **wasmail@webandsundry.com**
 
-- ⚡ Fun facts **I <3 card & strategy games, exceptional app/product UX, 2d pixel art & animation & time w/ friends and family.**
+- ⚡ Fun facts **I <3 card & strategy games, exceptional app/product UX, systems design, 2d pixel art & animation & time w/ friends and family.**
 
 
 <h3 align="left">Languages and Tools:</h3>
