@@ -1,13 +1,13 @@
-<h1 align="center">👋 I'm roody
-<h3 align="center">A freelance web dev from the Midwest, US</h3>
+<h1 align="center">👋 I'm Roody
+<h3 align="center">A fullstack developer, MBA student & small business owner from MI,US (the state that looks like a mitten XD)</h3>
 
-- 🔭 I’m currently working on a [Portfolio]
+- 🔭 I’m currently in the process of building my tech studio, WS Digital! 
 
-- 🌱 Learning **ux/ui, backend solutions for various use cases, CRON Jobs**
+- 🌱 I design and build products and solutions for local governmental agencies & non-profits and adjacent orgs, assisting with digital transformation efforts.
 
-- 👯 open to collab on [opensource, app developemnt, web3 os, gamejams/hackathons] possibly available to help with webdev overflow, contact via email/socials
+- 👯 open to network, possibly collab for hackathons, or product sprints. Possibly available to assist with agency overflow.
 
-- 💬 Ask me about **pc games, card games, rts/tcg, I also might be able to new devs and students w/ various beginner - intermediate cs or dev concepts. I can atleast probably point in a good direction. My stars section has tons and tons of amazing repos and compilations. If exploring or looking for something in particular, go to my stars page and type 'awesome' or a specific tech**
+- 💬 I love baking, cooking, pc games, card games, rts/tcg, retro game design (esp retro/90's era 8-32 bit) possibly available to mentoring younger/beginner students. Additionally CS/Dev students I also might be able to new devs and students w/ various beginner - intermediate cs or dev concept My stars section has tons and tons of amazing repos and compilations. If expl
 
 - 📫 How to reach me **wasmail@webandsundry.com**
 
