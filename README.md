@@ -7,11 +7,9 @@
 
 - 👯 open to network, possibly collab for hackathons, or product sprints. Possibly available to assist with agency overflow.
 
-- 💬 I love baking, cooking, pc games, card games, rts/tcg, retro game design (esp retro/90's era 8-32 bit) possibly available to mentoring younger/beginner students. Additionally CS/Dev students I also might be able to new devs and students w/ various beginner - intermediate cs or dev concept My stars section has tons and tons of amazing repos and compilations. If expl
+- 💬 I love baking, cooking, pc games, card games, rts/tcg, retro game design (esp retro/90's era 8-32 bit! && I'm also open to assist or mentor younger students w/ some concepts or feedback/direction - My stars section is also a particularly large collection of great resources and devs in all manner of cs/it/swe/business resources if it might help <3
 
 - 📫 How to reach me **wasmail@webandsundry.com**
-
-- ⚡ Fun facts **I <3 card & strategy games, exceptional app/product UX, systems design, 2d pixel art & animation & time w/ friends and family.**
 
 
 <h3 align="left">Languages and Tools:</h3>
