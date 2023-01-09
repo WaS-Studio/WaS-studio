@@ -1,13 +1,16 @@
 <h1 align="center">👋 I'm Roody
-<h3 align="center">A fullstack developer, MBA student & small business owner from MI,US (the state that looks like a mitten XD)</h3>
+<h3 align="center">A fullstack developer, MBA student & small business owner from MI,US. State that sort of resembles a mitten :) </h3>
 
-- 🔭 I’m currently in the process of building my tech studio, WS Digital! 
+- 🔭 I’m currently in the process of building my tech studio, WS Digital! - Short for Web & Sundry 
 
-- 🌱 I design and build products and solutions for local governmental agencies & non-profits and adjacent orgs, assisting with digital transformation efforts.
+- 🌱 I design and build digital products and solutions for SMB clients and organizations. I am focused on assisting people with digital transformation efforts.
 
 - 👯 open to network, possibly collab for hackathons, or product sprints. Possibly available to assist with agency overflow.
 
-- 💬 I love baking, cooking, pc games, card games, rts/tcg, retro game design (esp retro/90's era 8-32 bit! && I'm also open to assist or mentor younger students w/ some concepts or feedback/direction - My stars section is also a particularly large collection of great resources and devs in all manner of cs/it/swe/business resources if it might help <3
+- 💬 My interests and loves 
+      <3 baking, cooking, pc games, card games, rts/tcg, retro game design (esp retro/90's era 8-32 bit!) 
+                                                                                         
+- Potentially available to assist or mentor early MIS/SWE/CS students w/ concepts or feedback/direction  - My stars section is also a particularly large collection of resources and devs in all manner of cs/it/swe/business :)
 
 - 📫 How to reach me **wasmail@webandsundry.com**
 
