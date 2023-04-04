@@ -1,23 +1,27 @@
-<h1 align="center">👋 Hi, I'm Adam</h1>
-<h3 align="center">Fullstack Developer | MBA Student | Small Business Owner | MI, US</h3>
+<h1 align="center">Hi 👋, I'm Adam</h1>
+<h3 align="center">A Product Designer and MBA student with eclectic tastes and knack for creative problem-solving</h3>
 
-- 🚀 I'm currently building my tech studio: **WS Digital** (Web & Sundry).
-- 💡 I design and build digital products for SMBs and organizations, focusing on digital transformation.
-- 🤝 Open to networking, collaborating for hackathons, or product sprints. Available for agency overflow support.
-- 💬 Interests: Baking, cooking, PC games, card games, RTS/TCG, retro game design (8-32 bit era).
-- 🌟 Possibly available to mentor early MIS/SWE/CS students. Check my starred repositories for useful resources.
-- 📫 Reach me at: **wasmail@webandsundry.com**
+    🔭 I’m currently working on the particulars of my tech studio, Web&Sundry
+    🌱 Currently learning AI/ML/LLM dev/meta, LangChain, Raza, B2G landscape.
+    👯 I’m looking to collaborate on any great ideas, really, an established B2G partner would be compelling.
+    👨‍💻 Portfolio[Updating] github.com/
+    My medium, where I'm starting to compile lists of writers/musings, working on a content schema and begin publishing in the near future. https://medium.com/@roody_ws.digital
+    💬 Interests: Baking/Cooking, PC games, card games, RTS/TCG, retro game design aesthetics (8-32 bit pixel art things) on top of my career orientations in design, business/entrepreneurship & bleeding edge tech tech.
+    📫 How to reach me wasdev.contact@gmail.com
+    📄 XP: https://www.linkedin.com/in/adam-rood-47362865/
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+About Web&Sundry
+
+    🏢 Web&Sundry works on providing value and creative solutions for SMB clients.
+    💻 W&S also develops its own line of products that aim to erase pain points and foster growth & productivity.
+    🚀 At a bird's eye view, the goal is to help small businesses and organizations leverage digital transformation meta.
+
+Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Add or remove icons based on your skills -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/svelte/svelte-icon.svg" alt="svelte" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <!-- Other icons -->
+<a href="https://medium.com/@roody_ws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@roody_ws" height="30" width="40" /></a>
 </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.f
