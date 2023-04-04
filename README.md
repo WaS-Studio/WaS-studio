@@ -1,4 +1,7 @@
-<h1 align="center">👋 I'm Roody
+
+
+
+<h1 align="center">Hi, I'm Adam
 <h3 align="center">A fullstack developer, MBA student & small business owner from MI,US. State that sort of resembles a mitten :) </h3>
 
 - 🔭 I’m currently in the process of building my tech studio, WS Digital! - Short for Web & Sundry 
