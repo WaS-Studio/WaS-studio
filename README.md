@@ -17,7 +17,7 @@ Creative problem-solver, service-oriented naval aviation veteran with 3P values
 ## Skills:
 
 - 🎨 Design: Figma, Adobe Illustrator
-- 💻 Development: JavaScript, Typescript, React, Next, Sveltekit, GraphQL, Tailwindcss
+- 💻 Development: JavaScript, Typescript, React, Next, Sveltekit, GraphQL, Tailwindcss, Webflow
 - 🐳 Tools: Docker, Git, AWS
 - 🌱 Currently bookworming on AI/ML/LLM dev/meta, LangChain, and surveying the B2G landscape
 
