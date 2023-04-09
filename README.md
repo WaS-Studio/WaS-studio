@@ -1,24 +1,21 @@
-# Product Designer | MBA Student
+# Web&Sundry Digital Studio
+# Product Design | Digital Presence
 
-Creative problem-solver, service-oriented naval aviation veteran with 3P values
-
-## Currently working on:
-
-🚀 **Building out my tech studio, Web&Sundry**
-- 👨‍💻 Creative solutions and value generation for SMBs and Startups via digital transformation meta. We operate as a boutique for creative software and digital products.
+🚀 **Building my studio, Web&Sundry**
+- 👨‍💻 Creative solutions and value generation for local SMBs, Govt. Agencies & Entreprenuers. Think 'boutique' for creative software and digital products.
 - 🎯 W&S Mission Objs:
-  - Erase pain points, nurture growth, foster innovation.
   - Empower small businesses, startups, and organizations by leveraging digital transformation meta.
+  - Erase pain points, nurture growth, foster innovation.
   - Integrate and represent Type-B Corp. Principals.
 
 📝 **Medium**: [https://medium.com/@roody_ws.digital](https://medium.com/@roody_ws.digital)
-- 📚 Long-time medium lurker, but I'm now steadily curating reading lists on high-quality writers and publishing content periodically.
+- 📚 Steadily curating reading lists on high-quality writers and publishing content periodically.
 
 ## Skills:
 
-- 🎨 Design: Figma, Adobe Illustrator
+- 🎨 Design: Figma, Adobe Illustrator, Photoshop, Midjourney
 - 💻 Development: JavaScript, Typescript, React, Next, Sveltekit, GraphQL, Tailwindcss, Webflow
-- 🐳 Tools: Docker, Git, AWS
+- 🐳 Tools: Docker, Git, AWS, GPT4, VS Code
 - 🌱 Currently bookworming on AI/ML/LLM dev/meta, LangChain, and surveying the B2G landscape
 
 ## Additional interests:
