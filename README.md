@@ -1,5 +1,6 @@
 # Web&Sundry Digital Studio
-# Product Design | Digital Presence
+## Product Design | Digital Presence
+
 
 🚀 **Building my studio, Web&Sundry**
 - 👨‍💻 Creative solutions and value generation for local SMBs, Govt. Agencies & Entreprenuers. Think 'boutique' for creative software and digital products.
