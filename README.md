@@ -1,12 +1,10 @@
 # Web&Sundry Digital Studio
 
-<div style="display: flex; align-items: center; justify-content: center; height: 400px;">
-  <iframe src="https://drive.google.com/file/d/1xR8TwqclJGpNOBhPndrAVeXifbt-gORB/preview" width="100%" height="100%" allow="autoplay"></iframe>
+<div style="display: flex; align-items: left; justify-content: left; background-color: black; height: 400px;">
+  <img src="https://drive.google.com/uc?id=1xR8TwqclJGpNOBhPndrAVeXifbt-gORB" alt="studio banner github profile" style="max-width: 100%; height: auto;">
 </div>
 
-## 🚀 **Web&Sundry**
-
-## Product Design | Digital Presence
+## Product Development | Digital Presence | UX/UI Design
 
 - 👨‍💻 Software and Digital Products Boutique
   - 🎯 W&S Mission Objs:
