@@ -1,12 +1,12 @@
 # Web&Sundry Digital Studio
 
-## Product Design | Digital Presence
-
 <div style="display: flex; align-items: center; justify-content: center; height: 400px;">
-  <iframe src="https://my.spline.design/building18copy-455491bf46e0bd80db863c17ae1e478d/" style="width: 100%; height: 100%;"></iframe>
+  <iframe src="https://drive.google.com/file/d/1xR8TwqclJGpNOBhPndrAVeXifbt-gORB/preview" width="100%" height="100%" allow="autoplay"></iframe>
 </div>
 
-🚀 **Web&Sundry**
+## 🚀 **Web&Sundry**
+
+## Product Design | Digital Presence
 
 - 👨‍💻 Software and Digital Products Boutique
   - 🎯 W&S Mission Objs:
