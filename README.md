@@ -2,7 +2,9 @@
 
 ## Product Design | Digital Presence
 
-<iframe src="https://my.spline.design/building18copy-455491bf46e0bd80db863c17ae1e478d/" width="100%" height="400px"></iframe>
+<div style="display: flex; align-items: center; justify-content: center; height: 400px;">
+  <iframe src="https://my.spline.design/building18copy-455491bf46e0bd80db863c17ae1e478d/" style="width: 100%; height: 100%;"></iframe>
+</div>
 
 🚀 **Web&Sundry**
 
