@@ -1,10 +1,7 @@
 # Web&Sundry Digital Studio
 
-![studio banner github profile](https://drive.google.com/uc?id=1xR8TwqclJGpNOBhPndrAVeXifbt-gORB)
-
 ## 🚀 UX/UI | Digital Presence | Product Analysis
-
-## 👨‍💻 Software and Digital Product Studio
+   👨‍💻 Software and Digital Product Studio
 
 ### 💻 Development
 
