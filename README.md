@@ -6,12 +6,7 @@
 
 ## 🚀 Product Development | Digital Presence | UX/UI Design
 
-- 👨‍💻 Software and Digital Products Boutique
-  - 🎯 W&S Mission Objs:
-    - Empower small businesses, startups, and organizations by providing digital transformation solutions.
-    - Help solve pain points, cultivate growth & foster innovation.
-    - Integrate and represent Type-B Corp. Principals.
-
+- 👨‍💻 Software and Digital Product Studio
 ## 💻 Development
 
 ![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-black?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-black?style=flat&logo=next.js) ![Svelte](https://img.shields.io/badge/-black?style=flat&logo=svelte) ![Tailwind CSS](https://img.shields.io/badge/-black?style=flat&logo=tailwind-css) ![Webflow](https://img.shields.io/badge/-black?style=flat&logo=webflow)
