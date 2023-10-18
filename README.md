@@ -1,7 +1,6 @@
-# Web&Sundry Digital Studio
+# WSDx Digital Studio
 
-## 🚀 UX/UI | Digital Presence | Product Analysis
-   👨‍💻 Software and Digital Product Studio
+## 🚀 UX/UI | Digital Presence | Headless Component Delivery
 
 ### 💻 Development
 
