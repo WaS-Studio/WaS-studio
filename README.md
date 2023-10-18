@@ -1,11 +1,6 @@
 # Web&Sundry Digital Studio
 
-
-
-<div style="display: flex; align-items: left; justify-content: left; background-color: black; height: 400px;">
-<div align="left">
-  <img src="https://drive.google.com/uc?id=1xR8TwqclJGpNOBhPndrAVeXifbt-gORB" alt="studio banner github profile" style="max-width: 100%; height: auto;">
-</div>
+![studio banner github profile](https://drive.google.com/uc?id=1xR8TwqclJGpNOBhPndrAVeXifbt-gORB)
 
 ## 🚀 UX/UI | Digital Presence | Product Analysis
 
@@ -13,15 +8,27 @@
 
 ### 💻 Development
 
-![JavaScript](https://img.shields.io/badge/-black?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-black?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-black?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-black?style=flat&logo=next.js) ![Svelte](https://img.shields.io/badge/-black?style=flat&logo=svelte) ![Tailwind CSS](https://img.shields.io/badge/-black?style=flat&logo=tailwind-css) ![Webflow](https://img.shields.io/badge/-black?style=flat&logo=webflow)
+- [JavaScript](https://www.javascript.com/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [React](https://reactjs.org/)
+- [Next.js](https://nextjs.org/)
+- [Svelte](https://svelte.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Webflow](https://webflow.com/)
 
 ### 🎨 Design
 
-![Figma](https://img.shields.io/badge/-black?style=flat&logo=figma) ![Adobe Illustrator](https://img.shields.io/badge/-black?style=flat&logo=adobe-illustrator) ![Photoshop](https://img.shields.io/badge/-black?style=flat&logo=adobe-photoshop)
+- [Figma](https://www.figma.com/)
+- [Adobe Illustrator](https://www.adobe.com/products/illustrator.html)
+- [Photoshop](https://www.adobe.com/products/photoshop.html)
 
 ### 🐳 Tools
 
-![Docker](https://img.shields.io/badge/-black?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-black?style=flat&logo=git) ![AWS](https://img.shields.io/badge/-black?style=flat&logo=amazon-aws) ![GPT4](https://img.shields.io/badge/-black?style=flat&logo=openai) ![VS Code](https://img.shields.io/badge/-black?style=flat&logo=visual-studio-code)
+- [Docker](https://www.docker.com/)
+- [Git](https://git-scm.com/)
+- [AWS](https://aws.amazon.com/)
+- [GPT4](https://openai.com/)
+- [VS Code](https://code.visualstudio.com/)
 
 ## 🎯 Additional interests
 
